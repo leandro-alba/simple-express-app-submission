@@ -1,5 +1,5 @@
 # Simple Color List
-A simple CRUD app containing a list of colors in hex color code, #fff = white. I visit this list when I'm searching for a color to use on my other projects. Users can add on to the list by commenting in the textarea and hitting the submit button. The page will reload and the new color will appear on the bottom of the list. Users can change the background of the page by clicking an item(color) on the list, handy since all colors are in hex code.
+A simple CRUD app containing a list of colors in hex color code. I visit this list when I'm searching for a color I've saved for use on my other projects. Users can add on to the list by commenting in the textarea and hitting the submit button. The page will reload and the new color will appear on the bottom of the list. Users can change the background of the page by clicking an item(color) on the list, handy since all colors are in hex code.
 
 **Link to project:** https://simple-color-list.herokuapp.com/
 
